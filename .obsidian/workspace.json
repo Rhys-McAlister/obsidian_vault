@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/2023-09-05.md",
+                "file": "Convolutional neural networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2023-09-05.md",
+                "file": "Convolutional neural networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2023-09-05.md",
+                "file": "Convolutional neural networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/2023-09-05.md"
+                "file": "Convolutional neural networks.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +148,21 @@
   },
   "active": "8d84f80d474713f9",
   "lastOpenFiles": [
-    "daily_notes/2023-08-30.md",
-    "daily_notes/2023-09-05.md",
-    "daily_notes/2023-08-24.md",
+    "daily_notes/2023-09-10.md",
+    "Convolutional neural networks.md",
+    "daily_notes/2023-09-09.md",
+    "Xavier-Glorot initialization.md",
+    "ReLU.md",
+    "Vanishing gradient problem.md",
+    "Logistic function.md",
+    "Activation functions.md",
+    "daily_notes/2023-09-07.md",
     "Untitled.md",
+    "Graph convolutions.md",
+    "daily_notes/2023-09-05.md",
+    "daily_notes/2023-08-30.md",
+    "daily_notes/2023-08-24.md",
+    "daily_notes/2023-09-06.md",
     "daily_notes"
   ]
 }

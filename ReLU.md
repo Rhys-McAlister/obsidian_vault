@@ -1,0 +1,1 @@
+The derivative of ReLU with respect to its input is always 1 for positive input values.
