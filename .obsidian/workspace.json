@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional neural networks.md",
+                "file": "daily_notes/2023-09-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,29 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e378c1d84e25404d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Convolutional neural networks.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0b7228cc88b2dc9c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional neural networks.md",
+                "file": "daily_notes/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional neural networks.md"
+                "file": "daily_notes/2023-09-10.md"
               }
             }
           }
@@ -134,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +134,7 @@
   "lastOpenFiles": [
     "daily_notes/2023-09-10.md",
     "Convolutional neural networks.md",
+    "Pasted image 20230910104608.png",
     "daily_notes/2023-09-09.md",
     "Xavier-Glorot initialization.md",
     "ReLU.md",
