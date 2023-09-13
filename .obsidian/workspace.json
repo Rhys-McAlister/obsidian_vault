@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph representation.md",
+                "file": "Machine learning for Vibrational Spectroscopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph representation.md",
+                "file": "Machine learning for Vibrational Spectroscopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph representation.md"
+                "file": "Machine learning for Vibrational Spectroscopy.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph representation.md",
+                "file": "Machine learning for Vibrational Spectroscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,10 @@
   },
   "active": "8d84f80d474713f9",
   "lastOpenFiles": [
-    "daily_notes/2023-09-12.md",
+    "daily_notes/2023-09-13.md",
+    "Machine learning for Vibrational Spectroscopy.md",
     "Graph representation.md",
+    "daily_notes/2023-09-12.md",
     "Convolutional neural networks.md",
     "daily_notes/2023-09-10.md",
     "Pasted image 20230910104608.png",
