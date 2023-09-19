@@ -8,3 +8,4 @@ Igor Baskin and coauthors proposed a "neural device" (what we would call a neura
 Returning to the quote taken from Petar's presentation, we can see a paper published from Merkwirth and Lenguaer that proposed many of the key elements found in message passing frameworks today as early as 2005. This paper describes a method for the automatic generation of features for molecular datasets. This is done via the transformation of a molecular graph into a graph level molecular descriptor. They propose their system closely in line with what we see today in that their system is trained via gradient descent to optimise the molecular embedding in order to generate accurate predictions of graph level molecular properties. 
 
 
+

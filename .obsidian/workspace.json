@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7351ca10be5ecca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_notes/2023-09-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2093bb3955c571c5",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine learning for Vibrational Spectroscopy.md",
+                "file": "daily_notes/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine learning for Vibrational Spectroscopy.md"
+                "file": "daily_notes/2023-09-19.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine learning for Vibrational Spectroscopy.md",
+                "file": "daily_notes/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d84f80d474713f9",
+  "active": "7351ca10be5ecca1",
   "lastOpenFiles": [
-    "daily_notes/2023-09-13.md",
+    "daily_notes/2023-09-18.md",
+    "daily_notes/2023-09-19.md",
+    "daily_notes/2023-09-17.md",
     "Machine learning for Vibrational Spectroscopy.md",
+    "daily_notes/2023-09-14.md",
+    "daily_notes/2023-09-13.md",
     "Graph representation.md",
     "daily_notes/2023-09-12.md",
     "Convolutional neural networks.md",
