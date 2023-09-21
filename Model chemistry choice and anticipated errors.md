@@ -1,0 +1,2 @@
+The vibrational spectra was generated within the double harmonic approximation with the model chemistry: B97-1 hybrid functional method alongside the def2-TZVPD basis set (this is a triple-zeta basis set with added diffuse functions). These choices were informed by a prior benchmarking study aimed at finding the best model chemistry for rapid production of high throughput spectral data with reasonable accuracy.
+

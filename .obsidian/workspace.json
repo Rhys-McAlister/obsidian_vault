@@ -159,9 +159,11 @@
   },
   "active": "8d84f80d474713f9",
   "lastOpenFiles": [
-    "Spectrum Peak Broadening Procedure.md",
     "daily_notes/2023-09-21.md",
+    "High throughput methodology.md",
+    "Model chemistry choice and anticipated errors.md",
     "daily_notes/2023-09-19.md",
+    "Spectrum Peak Broadening Procedure.md",
     "daily_notes/2023-09-20.md",
     "Machine learning for Vibrational Spectroscopy.md",
     "daily_notes/2023-09-18.md",
@@ -184,8 +186,6 @@
     "Graph convolutions.md",
     "daily_notes/2023-09-05.md",
     "daily_notes/2023-08-30.md",
-    "daily_notes/2023-08-24.md",
-    "daily_notes/2023-09-06.md",
     "daily_notes"
   ]
 }
