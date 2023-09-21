@@ -1,0 +1,2 @@
+
+The computed spectrum are produced as an array of infinitely sharp absorbances as in we are simply plotting a tuple of intensity and position values. To create a realistic view of a spectra these values must be broadened such that they represent a continuous representation that can be used as a spectrum. McGill et al accomplish this through the use of a distribution function that mimics the shapes of spectra in the gas phase that we would expect to see in experimental spectra.
