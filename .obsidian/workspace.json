@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_notes/2023-09-19.md",
+                "file": "daily_notes/2023-09-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_notes/2023-09-19.md",
+                "file": "daily_notes/2023-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_notes/2023-09-19.md"
+                "file": "daily_notes/2023-09-30.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_notes/2023-09-19.md",
+                "file": "daily_notes/2023-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +159,17 @@
   },
   "active": "8d84f80d474713f9",
   "lastOpenFiles": [
+    "daily_notes/2023-09-29.md",
+    "daily_notes/2023-09-30.md",
+    "daily_notes/2023-09-19.md",
     "daily_notes/2023-09-21.md",
+    "Machine learning for Vibrational Spectroscopy.md",
+    "daily_notes/2023-09-20.md",
+    "daily_notes/2023-09-18.md",
     "High throughput methodology.md",
     "Model chemistry choice and anticipated errors.md",
-    "daily_notes/2023-09-19.md",
+    "[Transit spectroscopy.md",
     "Spectrum Peak Broadening Procedure.md",
-    "daily_notes/2023-09-20.md",
-    "Machine learning for Vibrational Spectroscopy.md",
-    "daily_notes/2023-09-18.md",
     "daily_notes/2023-09-17.md",
     "daily_notes/2023-09-14.md",
     "daily_notes/2023-09-13.md",
@@ -183,9 +186,6 @@
     "Activation functions.md",
     "daily_notes/2023-09-07.md",
     "Untitled.md",
-    "Graph convolutions.md",
-    "daily_notes/2023-09-05.md",
-    "daily_notes/2023-08-30.md",
     "daily_notes"
   ]
 }
